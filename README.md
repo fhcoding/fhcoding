@@ -2,4 +2,4 @@
 - 👀 I’m interested in mobile & web development
 - 🌱 I’m currently mobile dev & fullstack web trainee
 - 💞️ I’m looking to collaborate on any accurated interesting projet 
-- 📫 How to reach me : hfatchola@gmail.com 
+- 📫 How to reach me : hfatchola@gmail.com @fatcholahermann(twitter)
