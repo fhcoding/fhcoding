@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fhcoding
 - 👀 I’m interested in mobile & web development
-- 🌱 I’m currently mobile dev & fullstack web trainee
+- 🌱 I’m currently mobile dev & fullstack web junior
 - 💞️ I’m looking to collaborate on any accurated interesting projet 
 - 📫 How to reach me : hfatchola@gmail.com <a href="https://twitter.com/fatcholahermann">@fatcholahermann<a>
